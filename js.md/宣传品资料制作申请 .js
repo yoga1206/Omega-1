@@ -1,0 +1,23 @@
+{
+      Application department:String, 
+      Application Time:Date,   
+      Application people:String,    
+      Telephonenumber:String,  
+      Title:String,    
+      Publicity sort:String,  
+      Request time:Date,   
+      Standard:String,    
+      Department:String,    
+      Quantity:Number,    
+      Company name:String,   
+      Company people:String,    
+      Company telephone:String,    
+      Company name:String,    
+      Money:Float,   
+      Total money:Float,  
+      principal:String,   
+      Remark:String,  
+      Leaderopinion:String,  
+      Regularlyopinion:String,  
+      Writeopinion:String     
+}
